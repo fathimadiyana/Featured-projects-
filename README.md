@@ -1,63 +1,45 @@
-🍽️ Project 1 — Restaurant Rating Prediction
-1. What was the actual problem?
+🍽️ Restaurant Rating Prediction
 
-Predict restaurant ratings using available restaurant-related features and understand which factors are associated with higher or lower ratings.
+Problem:
+Predict restaurant ratings and identify the factors that influence restaurant performance.
 
-2. What exactly did I do?
-Cleaned and prepared the dataset
-Performed exploratory data analysis (EDA)
-Analyzed relationships between features and ratings
-Prepared data for machine learning
-Trained and compared multiple ML models
-Evaluated model performance
-3. What was difficult?
+What I Built:
+A machine-learning solution that analyzes restaurant data and predicts ratings.
 
-The main challenge was identifying the most relevant features and preparing the data in a way that allowed the models to make reliable predictions.
+My Contribution:
+Cleaned and explored the dataset, performed EDA, prepared features, trained and compared ML models, and evaluated their performance.
 
-4. What did I learn?
-
-I learned the complete machine-learning workflow, from data cleaning and EDA to model training and evaluation, and gained a better understanding of how different restaurant features can influence ratings.
+Result:
+Identified useful patterns associated with restaurant ratings and developed a predictive ML model.
 
 
 
+🚌 Bus Management System
 
-🚌 Project 2 — Bus Management System
-1. What was the actual problem?
+Problem:
+Manage bus, route, passenger, and operational information in a structured and efficient way.
 
-Create a structured database to efficiently manage information related to buses, routes, passengers, and other operational records.
+What I Built:
+A relational database system using MySQL for storing and managing bus-related information.
 
-2. What exactly did I do?
-Designed the database structure
-Created tables and relationships
-Inserted and managed records
-Wrote SQL queries to retrieve information
-Used queries to analyze operational data
-3. What was difficult?
+My Contribution:
+Designed the database structure, created tables and relationships, inserted records, and developed SQL queries for data retrieval and analysis.
 
-The main challenge was designing the tables and relationships correctly while avoiding unnecessary data duplication.
-
-4. What did I learn?
-
-I learned how to design a relational database and use MySQL and SQL to store, retrieve, and analyze real-world operational data.
+Result:
+Created an organized database system that makes bus information easier to store, retrieve, and manage.
 
 
 
+🎥 Deepfake Video Detection
 
-🎥 Project 3 — Deepfake Video Detection
-1. What was the actual problem?
-
+Problem:
 Detect whether a video is authentic or manipulated using deepfake techniques.
 
-2. What exactly did I do?
-Prepared and processed video data
-Extracted relevant visual information
-Developed a deepfake detection approach
-Trained the detection model
-Evaluated model performance
-3. What was difficult?
+What I Built:
+A machine-learning/deep-learning-based system for classifying videos as authentic or manipulated.
 
-The main challenge was identifying subtle visual differences between authentic and manipulated videos, while also handling the complexity of video data.
+My Contribution:
+Processed video data, extracted relevant visual information, developed and trained the detection model, and evaluated its performance.
 
-4. What did I learn?
-
-I learned how machine learning/deep learning and computer vision can be applied to a real-world problem and gained experience with video preprocessing, model training, and evaluation.
+Result:
+Developed a system capable of distinguishing authentic videos from manipulated videos based on learned visual patterns.
